@@ -9,5 +9,9 @@
   "Comment": {
     "body": "string",
     "post": "Post"
+  },
+  "Aciton": {
+    "transaction_id": "string",
+    "transaction_status": "string"
   }
 }
